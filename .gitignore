@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Production build
+build/
+dist/
+
+# Logs and debugging
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+coverage/
+
+# Environment variables
+.env
+
+# MacOS system files
+.DS_Store
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
