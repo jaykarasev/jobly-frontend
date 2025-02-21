@@ -21,4 +21,4 @@ coverage/
 # IDE / Editor files
 .vscode/
 .idea/
-*.swp
+*.s
